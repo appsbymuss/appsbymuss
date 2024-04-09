@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mustaphaelidrissi98/](https://www.linkedin.com/in/mustaphaelidrissi98/)
 
-- ⚡ Fun fact **I am also Manger of sales forces**
+- ⚡ Fun fact **I am also Manager of sales forces**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
