@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **COMPUTER SCIENCE AND WEB 3.0**
+- 🌱 I’m currently learning **COMPUTER SCIENCE, Full Stack Dev and Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/appsbymuss?tab=repositories](https://github.com/appsbymuss?tab=repositories)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mustaphaelidrissi98/](https://www.linkedin.com/in/mustaphaelidrissi98/)
 
-- ⚡ Fun fact **I am also Manager of sales forces**
+- ⚡ Fun fact **I treat my brain like a neural network, it only gets better the more I train it.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://dev.to/appsbymuss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="appsbymuss" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mustaphaelidrissi98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustaphaelidrissi98" height="30" width="40" /></a>
-<a href="https://instagram.com/mussgottasauce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mussgottasauce" height="30" width="40" /></a>
+<a href="https://instagram.com/appsbymuss.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mussgottasauce" height="30" width="40" /></a>
 <a href="https://discord.gg/appsbymuss_33920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="appsbymuss_33920" height="30" width="40" /></a>
 </p>
 
